@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xu Xu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Electrical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: School of Advanced Technology, Xi'an Jiaotong-Liverpool University
+  url: https://www.xjtlu.edu.cn/en/study/departments/school-of-advanced-technology/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include power system planning and operation, renewable power integration, energy management, and artificial intelligence application in power engineering.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Power System Optimization
+- Renewable Energy Management in Smart Grids
+- Artificial Intelligence Application in Electrical Engineering
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Electrical Engineering
+    institution: The Hong Kong Polytechnic University
+    year: 2019
+  - course: MEng in Electrical Engineering
+    institution: The Hong Kong Polytechnic University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
