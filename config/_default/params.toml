@@ -88,8 +88,8 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "huxy27@seu.edu.cn"
-phone = "+86 15261823862"
+email = "Xu.Xu02@xjtlu.edu.cn"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
